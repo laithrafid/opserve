@@ -1,4 +1,4 @@
-#This repo includes opensource observation-stack 
+#Opserve includes opensource observation-stack for testing
 
  ## Docker hosts and containers 
 Based on the official Docker images from Elastic:
